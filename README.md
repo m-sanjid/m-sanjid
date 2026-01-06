@@ -1,12 +1,14 @@
-# Muhammed Sanjid 👋
+# Muhammed Sanjid
 
-Frontend Developer building motion-first UI components & scalable web solutions.
+Frontend developer focused on motion-first interfaces and scalable web applications.
 
-## 🎯 Check Out
-- **Portfolio:** [sanjid.in](https://sanjid.in)
-- **Component Library:** [Velnor UI](https://ui.sanjid.shop)
+[sanjid.in](https://sanjid.in)  
 
-## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/muhammedsanjid1/)
-- [Twitter](https://x.com/dev_sanjid)
-- [Email](mailto:muhammeddsanjid@gmail.com)
+[velnor UI](https://ui.sanjid.shop)
+
+## Connect
+[Linkedin](https://www.linkedin.com/in/muhammedsanjid1/)  
+
+[x.com/dev_sanjid](https://x.com/dev_sanjid)  
+
+[email](mailto:muhammeddsanjid@gmail.com)
