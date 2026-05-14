@@ -4,7 +4,7 @@ Frontend developer focused on motion-first interfaces and scalable web applicati
 
 [sanjid.in](https://sanjid.in)  
 
-[velnor UI](https://ui.sanjid.shop)
+[velnor UI](https://ui.sanjid.in)
 
 ## Connect
 [Linkedin](https://www.linkedin.com/in/muhammedsanjid1/)  
