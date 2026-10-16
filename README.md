@@ -9,6 +9,6 @@ Frontend developer focused on motion-first interfaces and scalable web applicati
 ## Connect
 [Linkedin](https://www.linkedin.com/in/muhammedsanjid1/)  
 
-[x.com/dev_sanjid](https://x.com/dev_sanjid)  
+[x.com/dev_sanjid](https://x.com/sanj1dd)  
 
 [email](mailto:muhammeddsanjid@gmail.com)
